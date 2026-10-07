@@ -17,9 +17,11 @@ Build your ship, collect treasure, explore adventures, battle other captains, an
 
 ## 🔗 Links
 
-🌐 **Website:** https://tarlybots.com
+🌐 **Website:** [Visit Tarly Bots](https://tarlybots.com)
 
-💬 **Support:** support@tarlybots.com
+💬 **Discord:** [Join Tarly Bots here!](https://discord.gg/tpzUnJBrZc)
+
+📧 **Support:** [support@tarlybots.com](mailto:support@tarlybots.com)
 
 ## 🗳️ Vote for Jolly Roger
 
@@ -29,7 +31,7 @@ Voting helps support Jolly Roger and gives you rewards in the bot.
 
 ## 📢 Updates
 
-New features, changes, and fixes will be listed in the changelog.
+New features, changes, and fixes are listed in the [changelog](CHANGELOG.md).
 
 ---
 
