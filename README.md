@@ -15,6 +15,19 @@ Build your ship, collect treasure, explore adventures, battle other captains, an
 - 🎁 Vote rewards
 - 🦜 More features and adventures added over time
 
+## 💎 Optional Premium Features
+
+Jolly Roger is free to play, with optional purchases available for captains who want a little extra treasure!
+
+- 🚀 **Treasure Rush:** Increase treasure spawn frequency across your server for 48 hours.
+- 🪙 **Coin Packs:** Get additional coins to spend on items and upgrades.
+- 🎁 **Captain's Chest:** Get a bundle of gear, coins and other items.
+- ✨ **Magical Items Pack:** Get one of each magical items with unique abilities.
+
+All core gameplay features remain free to enjoy.
+
+🛒 [Explore the Jolly Roger Store](https://discord.com/discovery/applications/1421195420222230568/store)
+
 ## 🔗 Links
 
 🌐 **Website:** [Visit Tarly Bots](https://tarlybots.com)
